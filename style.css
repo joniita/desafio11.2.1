@@ -1,0 +1,29 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    text-align: center;
+    min-height: 100vh;
+}
+
+#sectionForm {
+    width: 40%;
+    margin: 0px auto;
+    margin-top: 80px;
+    padding: 24px 0px;
+    border: 1px solid #ccc;
+}
+
+#form {
+    width: 50%;
+    margin: 0px auto;
+}
+
+
+.inputForm {
+    padding: 16px;
+    display: flex;
+    justify-content:space-around;
+}
